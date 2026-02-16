@@ -1,0 +1,14 @@
+{
+  "name": "roblox-discord-bridge",
+  "version": "1.0.0",
+  "description": "Roblox to Discord bridge backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
